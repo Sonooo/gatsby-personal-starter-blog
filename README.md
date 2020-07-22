@@ -20,13 +20,9 @@ Demo: [gatsby-personal-starter-blog-search.netlify.app/blog](https://gatsby-pers
 
     ```sh
     git clone https://github.com/thomaswang/gatsby-personal-starter-blog
-    ```
 
-    ```sh
     cd gatsby-personal-starter-blog
-    ```
 
-    ```sh
     git checkout with-search
     ```
 
@@ -35,6 +31,8 @@ Demo: [gatsby-personal-starter-blog-search.netlify.app/blog](https://gatsby-pers
     Navigate into your new site’s directory and start it up.
 
     ```sh
+    yarn # or npm install
+
     gatsby develop
     ```
 
