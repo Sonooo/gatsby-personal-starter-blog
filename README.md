@@ -12,6 +12,8 @@
 
 This is the search-enabled version of Gatsby Personal Blog Starter!
 
+Demo: [gatsby-personal-starter-blog-search.netlify.app/blog](https://gatsby-personal-starter-blog-search.netlify.app/blog/)
+
 ## 🚀 Quick start
 
 1.  **Clone the repository and switch to the `with-search` branch**
