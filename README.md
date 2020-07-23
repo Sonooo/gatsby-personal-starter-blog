@@ -5,7 +5,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's Personal Starter Blog
+  Gatsby Personal Starter Blog
 </h1>
 
 <img alt="screenshot" src="./screenshot.png">
