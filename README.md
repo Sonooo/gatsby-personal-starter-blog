@@ -10,7 +10,7 @@
 
 <img alt="screenshot" src="./screenshot.gif">
 
-This is the search-enabled version of Gatsby Personal Blog Starter!
+This is the search-enabled version of Gatsby Personal Starter Blog!
 
 Demo: [gatsby-personal-starter-blog-search.netlify.app/blog](https://gatsby-personal-starter-blog-search.netlify.app/blog/)
 
