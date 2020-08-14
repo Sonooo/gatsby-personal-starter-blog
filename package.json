@@ -11,7 +11,7 @@
     "@mdx-js/mdx": "^1.5.1",
     "@mdx-js/react": "^1.5.1",
     "babel-plugin-styled-components": "^1.10.0",
-    "gatsby": "^2.23.11",
+    "gatsby": "^2.24.47",
     "gatsby-image": "^2.0.39",
     "gatsby-plugin-feed-mdx": "^1.0.0",
     "gatsby-plugin-google-analytics": "^2.0.18",
@@ -19,7 +19,7 @@
     "gatsby-plugin-manifest": "^2.0.29",
     "gatsby-plugin-mdx": "^1.2.14",
     "gatsby-plugin-netlify-cms": "^4.3.7",
-    "gatsby-plugin-offline": "^2.0.25",
+    "gatsby-plugin-offline": "^3.2.23",
     "gatsby-plugin-react-helmet": "^3.0.12",
     "gatsby-plugin-sharp": "^2.0.35",
     "gatsby-plugin-styled-components": "^3.0.7",
@@ -46,6 +46,8 @@
     "typography-theme-wordpress-2016": "^0.16.19"
   },
   "devDependencies": {
+    "gatsby-cli": "^2.12.66",
+    "gatsby-plugin-root-import": "^2.0.5",
     "prettier": "^1.17.0"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",

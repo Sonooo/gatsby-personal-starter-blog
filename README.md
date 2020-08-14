@@ -1,29 +1,18 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby Personal Starter Blog
-</h1>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0643e551-0fef-4f57-9d3c-29d576f3e06c/deploy-status)](https://app.netlify.com/sites/gatsby-personal-starter-blog/deploys)
 
 <img alt="screenshot" src="./screenshot.gif">
 
 This is the search-enabled version of Gatsby Personal Starter Blog!
 
-Demo: [gatsby-personal-starter-blog-search.netlify.app/blog](https://gatsby-personal-starter-blog-search.netlify.app/blog/)
-
 ## 🚀 Quick start
 
-1.  **Clone the repository and switch to the `with-search` branch**
+1.  **Create a Gatsby site.**
+
+    Use the Gatsby CLI to create a new site, specifying the blog starter.
 
     ```sh
-    git clone https://github.com/thomaswang/gatsby-personal-starter-blog
-
-    cd gatsby-personal-starter-blog
-
-    git checkout with-search
+    # create a new Gatsby site using the blog starter
+    gatsby new my-blog-starter https://github.com/thomaswang/gatsby-personal-starter-blog
     ```
 
 1.  **Start developing.**
@@ -31,8 +20,7 @@ Demo: [gatsby-personal-starter-blog-search.netlify.app/blog](https://gatsby-pers
     Navigate into your new site’s directory and start it up.
 
     ```sh
-    yarn # or npm install
-
+    cd my-blog-starter/
     gatsby develop
     ```
 
@@ -51,3 +39,11 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 - **For most developers, we recommend starting with our [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
 
 - **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
+
+## 📔 Learning Netlify CMS with Gatsby
+
+Start from [this point](https://www.gatsbyjs.org/docs/sourcing-from-netlify-cms/#authenticating-with-github) in the Gatsby documentation to finish the set up for your personal Netlify CMS with authentication.
+
+## 💫 Deploy
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thomaswangio/gatsby-personal-starter-blog)

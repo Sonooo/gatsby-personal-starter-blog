@@ -59,6 +59,7 @@ module.exports = {
       },
     },
     `gatsby-plugin-feed-mdx`,
+    `gatsby-plugin-root-import`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
