@@ -42,6 +42,9 @@
     "typography": "^0.16.19",
     "typography-theme-wordpress-2016": "^0.16.19"
   },
+  "resolutions": {
+    "xstate": "4.10.0"
+  },
   "devDependencies": {
     "gatsby-cli": "^2.12.66",
     "gatsby-plugin-root-import": "^2.0.5",
