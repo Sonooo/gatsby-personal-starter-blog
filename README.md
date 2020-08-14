@@ -1,12 +1,8 @@
-<h1 align="center">
-  Gatsby Personal Starter Blog
-</h1>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0643e551-0fef-4f57-9d3c-29d576f3e06c/deploy-status)](https://app.netlify.com/sites/gatsby-personal-starter-blog/deploys)
 
-<img alt="screenshot" src="./screenshot.png">
+<img alt="screenshot" src="./screenshot.gif">
 
-This starter is a fork of Gatsby Starter Blog, the most popular starter by far – with second place being Gatsby Starter Netlify CMS. So I decided to combine the 2!
-
-Too see a search-enabled version of this starter, please visit the [with-search](https://github.com/thomaswang/gatsby-personal-starter-blog/tree/with-search) branch.
+This is the search-enabled version of Gatsby Personal Starter Blog!
 
 ## 🚀 Quick start
 
@@ -51,5 +47,3 @@ Start from [this point](https://www.gatsbyjs.org/docs/sourcing-from-netlify-cms/
 ## 💫 Deploy
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thomaswangio/gatsby-personal-starter-blog)
-
-<!-- AUTO-GENERATED-CONTENT:END -->
