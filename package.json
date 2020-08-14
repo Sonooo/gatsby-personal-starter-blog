@@ -11,7 +11,7 @@
     "@mdx-js/mdx": "^1.5.1",
     "@mdx-js/react": "^1.5.1",
     "babel-plugin-styled-components": "^1.10.0",
-    "gatsby": "2.23.12",
+    "gatsby": "^2.24.47",
     "gatsby-image": "^2.0.39",
     "gatsby-plugin-feed-mdx": "^1.0.0",
     "gatsby-plugin-google-analytics": "^2.0.18",
@@ -41,9 +41,6 @@
     "typeface-montserrat": "0.0.54",
     "typography": "^0.16.19",
     "typography-theme-wordpress-2016": "^0.16.19"
-  },
-  "resolutions": {
-    "xstate": "4.10.0"
   },
   "devDependencies": {
     "gatsby-cli": "^2.12.66",
