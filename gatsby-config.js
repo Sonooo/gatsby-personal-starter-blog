@@ -17,6 +17,7 @@ module.exports = {
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-feed-mdx`,
+    `gatsby-plugin-root-import`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
